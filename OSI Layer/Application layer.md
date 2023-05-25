@@ -37,4 +37,24 @@
   * Block mode: dữ liệu được chia thành nhiều khối nhỏ và được đóng gói thành các FTP Blocks. Mỗi Block sẽ chứa thông tin về khối dữ liệu đang được gửi.
   * Compressed mode: các đoạn dữ liệu bị lặp sẽ được phát hiện và loại bỏ để giảm chiều dài của toàn bộ thông điệp khi gửi đi (nén dữ liệu).
 
+## 3.SNMP (Simple Network Management Protocol).
+* SNMP được sử dụng để trao đổi thông tin quản lý giữa các thiết bị mạng. Nó là một phần của TCP/IP.
+* Các thành phần của SNMP:
+ * SNMP Manager có các chức năng:
+   * Agent truy vấn.
+   * Nhận các response từ agent.
+   * Đặt các biến trong agent.
+   * Xác nhận các sự kiện không đồng bộ từ các agent.
+ *  Các thiết bị được SNMP quản lý: router, switch, máy trạm, máy in, …
+	* SNMP Agent: là một chương trình được đóng gói trong các thiết bị mạng. Việc kích hoạt agent cho phép nó thu thập cơ sở dữ liệu thông tin quản lý từ thiết bị cục bộ và cung cấp nó cho SNMP manager khi được truy vấn.
+	 * Các chức năng của SNMP Agent:
+	  * Thu thập thông tin quản lý về các chỉ số hoạt động của thiết bị.
+   * Lưu trữ và truy xuất thông tin quản lý.
+   * Báo hiệu sự kiện cho trình quản lý.
+   * Hoạt động như một Proxy cho một số nút mạng không quản lý được.
+
+
+
+
+
 
