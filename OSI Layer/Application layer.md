@@ -21,6 +21,14 @@
 2. Kết nối nhanh.
 3. Giao thức Telnet không an toàn, không bảo mật cao vì nó không được mã hóa nên các thông tin lưu lượng của giao thức Telnet có thể bị lộ bất cứ lúc nào.
 
+* Các thiết bị thường sử dụng Telnet: Linux, Router, Switch, Camera, Windows, …
+* Ngoài ra giao thức này còn có thể được dùng để ping một cổng và kiểm tra xem cổng đó có đang mở hay không. 
+
+## 2.FTP (File Transfer Protocol).
+* FTP là giao thức truyền tải tập tin được dùng trong việc trao đổi dữ liệu qua mạng thông qua giao thức TCP/IP, thường hoạt động trên hai port 20 và port 21.
+* Với giao thức FTP, các client trong mạng có thể truy cập đến máy chủ FTP để gửi hoặc lấy dữ liệu. Điểm nổi bật là người dùng có thể truy cập đến máy chủ FTP để truyền và nhận dữ liệu dù đang ở xa.
+![Imgur](https://prnt.sc/coZ9jI5da952)
+
 
 
 
