@@ -46,13 +46,13 @@
    * Đặt các biến trong agent.
    * Xác nhận các sự kiện không đồng bộ từ các agent.
  *  Các thiết bị được SNMP quản lý: router, switch, máy trạm, máy in, …
-	* SNMP Agent: là một chương trình được đóng gói trong các thiết bị mạng. Việc kích hoạt agent cho phép nó thu thập cơ sở dữ liệu thông tin quản lý từ thiết bị cục bộ và cung cấp nó cho SNMP manager khi được truy vấn.
-	 * Các chức năng của SNMP Agent:
+ * SNMP Agent: là một chương trình được đóng gói trong các thiết bị mạng. Việc kích hoạt agent cho phép nó thu thập cơ sở dữ liệu thông tin quản lý từ thiết bị cục bộ và cung cấp nó cho SNMP manager khi được truy vấn.
+	* Các chức năng của SNMP Agent:
 	  * Thu thập thông tin quản lý về các chỉ số hoạt động của thiết bị.
-   * Lưu trữ và truy xuất thông tin quản lý.
-   * Báo hiệu sự kiện cho trình quản lý.
-   * Hoạt động như một Proxy cho một số nút mạng không quản lý được.
-
+  	  * Lưu trữ và truy xuất thông tin quản lý.
+   	  * Báo hiệu sự kiện cho trình quản lý.
+  	  * Hoạt động như một Proxy cho một số nút mạng không quản lý được.
+	
 
 
 
