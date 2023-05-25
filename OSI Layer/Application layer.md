@@ -30,5 +30,11 @@
 
 ![Imgur](https://i.imgur.com/ysUvj7q.png)
 
+* Control Connection: đây là phiên làm việc TCP logic đầu tiên được tạo ra khi quá trình truyền dữ liệu bắt đầu. Quá trình sẽ được duy trì trong suốt quá trình phiên làm việc diễn ra.
+* Data Connection: là một kết nối dữ liệu TCP được tạo ra với mục đích chuyên biệt là truyền tải dữ liệu giữa máy Client và Server. Kết nối sẽ tự động ngắt khi quá trình truyền tải dữ liệu hoàn tất.
+* Các giao thức truyền dữ liệu trong giao thức FTP.
+  * Stream mode: phương thức này hoạt động dựa vào tính tin cậy trong việc truyền dữ liệu trên giao thức TCP. Dữ liệu sẽ được truyền đi dưới dạng các byte có cấu trúc không liên tiếp.
+  * Block mode: dữ liệu được chia thành nhiều khối nhỏ và được đóng gói thành các FTP Blocks. Mỗi Block sẽ chứa thông tin về khối dữ liệu đang được gửi.
+  * Compressed mode: các đoạn dữ liệu bị lặp sẽ được phát hiện và loại bỏ để giảm chiều dài của toàn bộ thông điệp khi gửi đi (nén dữ liệu).
 
 
