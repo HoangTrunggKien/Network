@@ -27,7 +27,8 @@
 ## 2.FTP (File Transfer Protocol).
 * FTP là giao thức truyền tải tập tin được dùng trong việc trao đổi dữ liệu qua mạng thông qua giao thức TCP/IP, thường hoạt động trên hai port 20 và port 21.
 * Với giao thức FTP, các client trong mạng có thể truy cập đến máy chủ FTP để gửi hoặc lấy dữ liệu. Điểm nổi bật là người dùng có thể truy cập đến máy chủ FTP để truyền và nhận dữ liệu dù đang ở xa.
-![Imgur](https://prnt.sc/coZ9jI5da952)
+
+![Imgur](https://prnt.sc/6rWqfnhs40j9)
 
 
 
