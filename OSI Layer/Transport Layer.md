@@ -30,7 +30,15 @@
  * Địa chỉ cổng: Để định danh các tiến trình. Có 3 loại cổng là: Cổng thông dụng, cổng đăng ký, cổng động.
 * Cổng thông dụng: Là các cổng nằm trong khoảng từ 0 đến 1023, những cổng này được gán và giám sát bởi IANA (Tổ chức cấp phát số liệu Internet). Dưới đây là một số cổng khá thông dụng trong hệ thống mạng:
 
-
+|Cổng|Giao thức|Miêu tả|
+|-|-|-|
+|20|FTP, data|Giao thức truyền tệp. (kết nối dữ liệu)|
+|21|FTP, control|Giao thức truyền tệp. (kết nối điều khiển)|
+|23|Telnet|Giao thức đăng nhập từ xa.|
+|25|SMTP|Giao thức truyền thư điện tử đơn giản.|
+|53|DNS|Hệ thống tên miền.|
+|80|HTTP|Giao thức truyền siêu văn bản.|
+|110|POP3|Giao thức nhận thư điện tử.|
 
 
 
