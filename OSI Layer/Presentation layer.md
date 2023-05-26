@@ -16,6 +16,3 @@
   * Giao thức SSL record: xác định các định dạng dùng để truyền dữ liệu
   * Giao thức SSL handshake (gọi là giao thức bắt tay) : sử dụng SSL record protocol để trao đổi một số thông tin giữa server và client vào lần đầu tiên thiết lập kết nối SSL.
 
-
-
-
