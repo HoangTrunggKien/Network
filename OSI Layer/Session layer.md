@@ -18,6 +18,3 @@
 ## b)Giao thức RPC (Remote Procedure Call).
 * Là một mô hình mạng hay còn được biết đến là cơ chế giao tiếp giữa hai tiến trình. Đây là một loại giao thức yêu cầu phản hồi, có thể dễ dàng được giải thích sử dụng mô hình truyền thông máy khách/máy chủ. Quá trình gọi một được gọi là “máy khách” và quá trình trả lời lại yêu cầu này được gọi là “máy chủ”.
 
-
-
-
