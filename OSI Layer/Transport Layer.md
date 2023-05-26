@@ -141,6 +141,7 @@ Ví dụ:  Đầu tiên trong giai đoạn thiết lập kết nối, mỗi phí
  * Không kiểm soát tốc độ gửi: tốc độ truyền của UDP không bị giới hạn bởi các cơ chế điều khiển luồng hay tắc nghẽn mà chỉ bị ảnh hưởng bởi tốc độ sinh dữ liệu của ứng dụng và tốc độ truy cập mạng.
 
 |Đặc trưng|UDP|TCP|
+|-|-|-|
 |Tốc độ truyền|Nhanh hơn|Chậm hơn|
 |Dung lượng gói tin|Nặng|Nhẹ|
 |Hướng liên kết|Không|Có|
