@@ -1,1 +1,30 @@
+## 1. Đơn vị đo thông tin dữ liệu dựa theo hệ nhị phân.
+|Đơn vị|Viết tắt|Sức chứa|
+|-|-|-|
+|Bit|b|1 hoặc 0|
+|Byte|B|1 byte = 8 bit|
+|Kilobyte|KB|1 KB = 1024 byte|
+|Megabyte|MB|1MB = 1024 KB|
+|Gigabyte|GB|1 GB = 1024 MB|
+|Terabyte|TB|1 TB = 1024 GB|
+|Petabyte|PB|1 PB = 1024 TB|
+|Exabyte|EB|1 EB = 1024 PB|
+|Zettabyte|ZB|1 ZB = 1024 EB|
+|Yottabyte|YB|1 YB = 1024 ZB|
+<br/>
+Mỗi đơn vị theo thứ tự hơn kém nhau 1024 lần. 
+
+## 2. Đơn vị đo thông tin dựa theo hệ thập phân.
+
+![Imgur](https://i.imgur.com/qizMKsr.png)
+
+## 3. Các đơn vị đo tốc độ mạng phổ biến trên Internet.
+
+![Imgur](https://i.imgur.com/wbl2R36.png)
+<br/>
+Ví dụ chuyển đổi đơn vị bit sang byte:<br/>
+1 Megabit = 10^6 bit = 10^6 / 8 / 1024 / 1024 = ~ 0,119 Megabyte (MB)<br/>
+1 Gigabit = 109 bit = 10^6 / 8 / 1024 / 1024 / 1024 = ~ 0,1164 Gigabyte (GB)
+
+
 
